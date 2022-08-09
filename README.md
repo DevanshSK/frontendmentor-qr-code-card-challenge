@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./design/desktop-preview.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://devanshsk.github.io/frontendmentor-qr-code-card-challenge/](https://devanshsk.github.io/frontendmentor-qr-code-card-challenge/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com){:target="_blank"}
+- Live Site URL: [https://devanshsk.github.io/frontendmentor-qr-code-card-challenge/](https://devanshsk.github.io/frontendmentor-qr-code-card-challenge/){:target="_blank"}
 
 ## My process
 First I structured the HTML according to the project.
@@ -34,7 +34,7 @@ Then I used GSAP to add the animations to improve the feel of the website.
 - CSS custom properties
 - CSS Flexbox
 - Mobile-first workflow
-- [GSAP](https://greensock.com/gsap/) - JS animation library
+- [GSAP](https://greensock.com/gsap/){:target="_blank"} - JS animation library
 
 ### What I learned
 
@@ -54,13 +54,13 @@ The code to GSAP animations is given below:
 
 ### Continued development
 
-In future, I want to recreate this card component using [ReactJS](https://reactjs.org/) entirely, When I am more comfortable in React.
+In future, I want to recreate this card component using [ReactJS](https://reactjs.org/){:target="_blank"} entirely, When I am more comfortable in React.
 
 ### Useful resources
 
-- [GSAP Documentation](https://www.example.com) - This is the official documentation of GSAP library.
-- [GSAP Cheatsheet](https://greensock.com/cheatsheet/) - This cheatsheet helped greatly too😊.
+- [GSAP Documentation](https://www.example.com){:target="_blank"} - This is the official documentation of GSAP library.
+- [GSAP Cheatsheet](https://greensock.com/cheatsheet/){:target="_blank"} - This cheatsheet helped greatly too😊.
 
 ## Author
-- Frontend Mentor - [@DevanshSK](https://www.frontendmentor.io/profile/DevanshSK)
-- Twitter - [@devansh_sk](https://twitter.com/devansh_sk)
+- Frontend Mentor - [@DevanshSK](https://www.frontendmentor.io/profile/DevanshSK){:target="_blank"}
+- Twitter - [@devansh_sk](https://twitter.com/devansh_sk){:target="_blank"}
