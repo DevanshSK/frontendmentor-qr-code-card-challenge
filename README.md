@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./design/desktop-preview.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/DevanshSK/frontendmentor-qr-code-card-challenge](https://github.com/DevanshSK/frontendmentor-qr-code-card-challenge)
 - Live Site URL: [https://devanshsk.github.io/frontendmentor-qr-code-card-challenge/](https://devanshsk.github.io/frontendmentor-qr-code-card-challenge/)
 
 ## My process
