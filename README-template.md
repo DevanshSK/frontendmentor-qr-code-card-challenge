@@ -34,7 +34,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://devanshsk.github.io/frontendmentor-qr-code-card-challenge/)
 
 ## My process
 
@@ -42,12 +42,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- CSS Flexbox
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- [GSAP](https://greensock.com/gsap/) - JS animation library
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
