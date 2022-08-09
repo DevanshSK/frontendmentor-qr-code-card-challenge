@@ -65,7 +65,9 @@ body{
 .attribution {
   text-align: center; 
   padding: 1rem;
+  overflow: hidden;
 }
 .attribution a { 
   color: hsl(228, 45%, 44%); 
+  text-decoration: none;
 }
